@@ -1,24 +1,24 @@
 {
-    'theme_color': '#d0021b',
-    'background_color': '#fff',
-    'display': 'standalone',
-    'start_url': '/',
-    'prefer_related_applications': false,
-    'name': 'Sedekahpagi.org',
-    'short_name': 'Sedekahpagi.org',
-    'description': 'Aplikasi Sedekah by Komunitas Sedekah Indonesia, permudah Sedekah dengan Menabung',
-    'icons': [
+    "theme_color": "#d0021b",
+    "background_color": "#fff",
+    "display": "standalone",
+    "start_url": "/",
+    "prefer_related_applications": false,
+    "name": "Sedekahpagi.org",
+    "short_name": "Sedekahpagi.org",
+    "description": "Aplikasi Sedekah by Komunitas Sedekah Indonesia, permudah Sedekah dengan Menabung",
+    "icons": [
         {
-            'src': 'https://1.bp.blogspot.com/-Wpa1rxh13ms/YTP4QViimRI/AAAAAAAAAAQ/Kk-StRLXq50wdCIEAWVck806klGfM2W4wCK4BGAYYCw/s192/sedekahpagi512.png',
-            'sizes': '192x192',
-            'type': 'image/png',
-            'purpose': 'maskable any'
+            "src": "https://1.bp.blogspot.com/-Wpa1rxh13ms/YTP4QViimRI/AAAAAAAAAAQ/Kk-StRLXq50wdCIEAWVck806klGfM2W4wCK4BGAYYCw/s192/sedekahpagi512.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable any"
         },
         {
-            'src': 'https://1.bp.blogspot.com/-Wpa1rxh13ms/YTP4QViimRI/AAAAAAAAAAQ/Kk-StRLXq50wdCIEAWVck806klGfM2W4wCK4BGAYYCw/s512/sedekahpagi512.png',
-            'sizes': '512x512',
-            'type': 'image/png',
-            'purpose': 'maskable any'
+            "src": "https://1.bp.blogspot.com/-Wpa1rxh13ms/YTP4QViimRI/AAAAAAAAAAQ/Kk-StRLXq50wdCIEAWVck806klGfM2W4wCK4BGAYYCw/s512/sedekahpagi512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable any"
         }
     ]
 }
