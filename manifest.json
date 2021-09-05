@@ -1,8 +1,8 @@
 {
-    "theme_color": "#d0021b",
+    "theme_color": "#fff",
     "background_color": "#fff",
     "display": "standalone",
-    "start_url": "/",
+    "start_url": "https://www.sedekahpagi.org",
     "prefer_related_applications": false,
     "name": "Sedekahpagi.org",
     "short_name": "Sedekahpagi.org",
